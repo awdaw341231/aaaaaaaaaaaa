@@ -1,0 +1,33 @@
+      ___________    ________ __________ 
+  ____\_   _____/___ \______ \\______   \
+_/ __ \|    __)/    \ |    |  \|       _/
+\  ___/|     \|   |  \|    `   \    |   \
+ \___  >___  /|___|  /_______  /____|_  /
+     \/    \/      \/        \/       \/ 
+
+[!]  google error GoogleCookiePolicies, Cookie Policy detected
+|_ Author: @JosueEncinar
+|_ Description: Search emails from a domain through search engines.
+|_ Version: 0.3.0b
+|_ Usage: emailfinder -d domain.com
+Searching in google...
+Searching in bing...
+Searching in baidu...
+Searching in yandex...
+[+] Bing discovered 9 emails
+[+] bing done!
+[+] Baidu discovered 1 emails
+[+] baidu done!
+[!]  yandex error YandexDetection, Robot detected
+Total emails: 10
+-----------------
+22@indeed.com
+trustpilot@indeed.com
+alert@indeed.com
+hiringlabinfo@indeed.com
+android@indeed.com
+EMEA_PR@indeed.com
+jdoe@indeed.com
+careerguide@indeed.com
+indeedapply@indeed.com
+us-pr@indeed.com

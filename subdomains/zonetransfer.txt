@@ -1,0 +1,8 @@
+
+; <<>> DiG 9.19.21-1-Debian <<>> axfr indeed.com @brit.ns.cloudflare.com.
+;; global options: +cmd
+; Transfer failed.
+
+; <<>> DiG 9.19.21-1-Debian <<>> axfr indeed.com @kevin.ns.cloudflare.com.
+;; global options: +cmd
+; Transfer failed.

@@ -1,0 +1,38 @@
+[*] Found 22 urls
+URL: https://api.swaggerhub.com/apis/admodak/Centralized-Billing-Service/1.0.0[0m
+[32m[*] email: revsys-billing-team-hyd@indeed.com[0m
+URL: https://api.swaggerhub.com/apis/kajal.pal/silk-road_ats_api/1.0.0[0m
+[32m[*] google_captcha: 6LR0Nuallz4c3WVCwiPKundMit2VC6vxlyfZXE62[0m
+URL: https://api.swaggerhub.com/apis/qlong/iwf/1.0.0[0m
+URL: https://api.swaggerhub.com/apis/SCOBO/Mamgo-Ind-Service/1.0.1[0m
+URL: https://api.swaggerhub.com/apis/ncat_indeed/notifications/0.0.2[0m
+[32m[*] email: ncatranis@indeed.com[0m
+URL: https://api.swaggerhub.com/apis/itismichael/ind-sj/1.0.0[0m
+[32m[*] authorization_basic: basic properties[0m
+URL: https://api.swaggerhub.com/apis/zapinfo/zaprecordstructure/1.0.0[0m
+[32m[*] Heroku API KEY: d290f1ee-6c54-4b01-90e6-d701748f0851[0m
+URL: https://api.swaggerhub.com/apis/tarasryb/vorkis_robot_data_api/1.0.0[0m
+URL: https://api.swaggerhub.com/apis/ABDERRAHMENFEKIH2/api_v1/1.0.0[0m
+[32m[*] Heroku API KEY: d290f1ee-6c54-4b01-90e6-d701748f0851[0m
+URL: https://api.swaggerhub.com/apis/Public-Insight/TalentViewAPI/1.0[0m
+[32m[*] email: support@talentviewapi.com[0m
+URL: https://api.swaggerhub.com/apis/xlogistx.io/sponsored-job_campaigns_api/1.0.0[0m
+[32m[*] email: ads-api@indeed.com[0m
+URL: https://api.swaggerhub.com/apis/jeffreylaw/JobApplicationTracking/1.0.0[0m
+[32m[*] Heroku API KEY: d290f1ee-6c54-4b01-90e6-d701748f0851[0m
+URL: https://api.swaggerhub.com/apis/qlong/search_get_resumes/1.0.0[0m
+URL: https://api.swaggerhub.com/apis/qlong/amazonmvp/1.0.0[0m
+URL: https://api.swaggerhub.com/apis/khoubeibouthour/XtractData-OpenAPI/1.0.0[0m
+[32m[*] amazon_aws_url2: s3-media0.fl.yelpcdn.com/photo/nn1d-LK19LkcEm_cMkrdrA/60s.jpg[0m
+URL: https://api.swaggerhub.com/apis/becakkamu/api-documentation/1.0[0m
+URL: https://api.swaggerhub.com/apis/cubite/your-api/1.0.0[0m
+[32m[*] authorization_basic: basic properties[0m
+URL: https://api.swaggerhub.com/apis/ZembraTech/zembra-api/3.0.0[0m
+[32m[*] amazon_aws_url2: s3-media0.fl.yelpcdn.com/photo/nn1d-LK19LkcEm_cMkrdrA/60s.jpg[0m
+URL: https://api.swaggerhub.com/apis/Zembra/Zembra/3.0.0[0m
+[32m[*] amazon_aws_url2: s3-media0.fl.yelpcdn.com/photo/nn1d-LK19LkcEm_cMkrdrA/60s.jpg[0m
+URL: https://api.swaggerhub.com/apis/ciacciarelli.nsr/your-api/1.0.0[0m
+[32m[*] authorization_basic: basic components[0m
+URL: https://api.swaggerhub.com/apis/lmakoti/selibeng_posts/1.0.0[0m
+URL: https://api.swaggerhub.com/apis/RAVINDRACHAVAN/SportClipsAPI/1.0.0[0m
+[32m[*] google_captcha: 6LJXZpJE2GAiy3nQgQnkD91rLrKRTfQqrBz6jiK9[0m

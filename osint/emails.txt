@@ -1,0 +1,10 @@
+22@indeed.com
+trustpilot@indeed.com
+alert@indeed.com
+hiringlabinfo@indeed.com
+android@indeed.com
+EMEA_PR@indeed.com
+jdoe@indeed.com
+careerguide@indeed.com
+indeedapply@indeed.com
+us-pr@indeed.com
