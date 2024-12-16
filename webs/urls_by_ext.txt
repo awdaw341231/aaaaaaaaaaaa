@@ -1,0 +1,42 @@
+
+############################
+ + action + 
+############################
+
+https://setup.sso.indeed.com/_next/static/chunks/pages/ui.action
+https://partnerships.indeed.com/static/cfbc25da378494ffce76/js/background.action
+https://partnerships.indeed.com/static/cfbc25da378494ffce76/js/foreground.action
+https://partnerships.indeed.com/static/cfbc25da378494ffce76/js/border.action
+https://hiringevent.indeed.com/static/js/background.action
+
+############################
+ + html + 
+############################
+
+https://sgtm.indeed.com/*.html?*$
+
+############################
+ + json + 
+############################
+
+https://setup.sso.indeed.com/%5C.json
+https://setup.sso.indeed.com/_next/static/chunks/index.json
+https://setup.sso.indeed.com/_next/static/chunks/font-manifest.json
+https://setup.sso.indeed.com/_next/static/chunks/_devPagesManifest.json
+https://setup.sso.indeed.com/_next/static/chunks/images-manifest.json
+https://setup.sso.indeed.com/_next/static/chunks/middleware-manifest.json
+https://setup.sso.indeed.com/_next/static/chunks/prerender-manifest.json
+https://setup.sso.indeed.com/_next/static/chunks/_devMiddlewareManifest.json
+https://setup.sso.indeed.com/_next/static/chunks/react-loadable-manifest.json
+https://setup.sso.indeed.com/_next/static/chunks/required-server-files.json
+https://setup.sso.indeed.com/_next/static/chunks/build-manifest.json
+https://setup.sso.indeed.com/_next/static/chunks/app-build-manifest.json
+https://setup.sso.indeed.com/_next/static/chunks/export-detail.json
+https://setup.sso.indeed.com/_next/static/chunks/routes-manifest.json
+https://setup.sso.indeed.com/_next/static/chunks/functions-config-manifest.json
+https://setup.sso.indeed.com/_next/static/chunks/app-path-routes-manifest.json
+https://setup.sso.indeed.com/_next/static/chunks/pages-manifest.json
+https://setup.sso.indeed.com/_next/static/chunks/app-paths-manifest.json
+https://setup.sso.indeed.com/_next/static/chunks/export-marker.json
+https://partnerships.indeed.com/static/scout-file/scoutfile/config.json
+https://partnerships.indeed.com/static/scout-file/config.json
