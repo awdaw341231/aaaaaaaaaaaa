@@ -1,0 +1,8 @@
+[detect-dangling-cname] [dns] [info] devops.indeed.com ["aus-devops1.indeed.net"]
+[detect-dangling-cname] [dns] [info] iam-adminweb.corp.indeed.com ["use2-iamaw1.corpit.indeed.net"]
+[detect-dangling-cname] [dns] [info] indeed3-cmhprod.indeed.com ["indeed3-cmhprod-alb-1623704437.us-east-2.elb.amazonaws.com"]
+[detect-dangling-cname] [dns] [info] mechabugs.corp.indeed.com ["auscorp-atl2.indeed.net"]
+[detect-dangling-cname] [dns] [info] net.indeed.com ["aus-hostmaster1.indeed.net"]
+[detect-dangling-cname] [dns] [info] netqa.indeed.com ["tst-hostmaster1.indeed.net"]
+[detect-dangling-cname] [dns] [info] nagios.indeed.com ["aus-mon1.indeed.net"]
+[detect-dangling-cname] [dns] [info] xoa.corp.indeed.com ["internal-services-vip.ausprod.indeed.net"]
